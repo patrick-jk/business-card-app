@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="title_business_card">Business Card</string>
+    <string name="fab_cd">Add a new business card</string>
+    <string name="title_create_new_card">New Card</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_phone">Phone</string>
+    <string name="hint_email">E-mail</string>
+    <string name="hint_company">Company</string>
+    <string name="hint_color">Color</string>
+    <string name="text_btn_confirm">Confirm</string>
+    <string name="cd_close">Close create new card screen</string>
+    <string name="text_toast_card_created">Card created successfully!</string>
+    <string name="text_share_to">Share Card</string>
+    <string name="txt_select_background_color">Select the card background color</string>
+</resources>
